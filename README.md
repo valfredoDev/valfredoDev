@@ -1,12 +1,8 @@
 # 🧑🏻‍💻 Valfredo Silva
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Back-End | Python | Banco de Dados | Aplicações Web`**
 
-Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, onde também concluí o curso técnico em Informática.
-
-Possuo experiência prática em desenvolvimento de sistemas, modelagem e manipulação de banco de dados e construção de aplicações web, com foco em organização, boas práticas e evolução contínua do código.
-
-Sou fundador da Wide Vision, produtora de conteúdo audiovisual, e atuo como designer gráfico, integrando criatividade e tecnologia para desenvolver soluções digitais funcionais e visualmente consistentes.
+Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, onde também concluí o curso técnico em Informática. Possuo experiência prática em desenvolvimento de sistemas, modelagem e manipulação de banco de dados e construção de aplicações web, com foco em organização, boas práticas e evolução contínua do código. Também sou fundador da "[Wide Vision](https://www.instagram.com/widevisioon/)", produtora de conteúdo audiovisual, integrando criatividade e tecnologia na produção audiovisual e criação de conteúdo digital.
 
 <p align="left">
     <a href="https://github.com/valfredoDev" target="_blank">
@@ -29,68 +25,87 @@ Sou fundador da Wide Vision, produtora de conteúdo audiovisual, e atuo como des
 
 ### 🤖 Linguagens e Tecnologias
 
+<!-- Backend -->
+
 <img 
     align="left" 
     alt="Python"
     title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django"
+    title="Django" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
     alt="Flask"
     title="Flask" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
+
+<!-- Banco de Dados -->
+
 <img 
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+<!-- Frontend -->
+
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+<!-- Versionamento -->
+
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="35px" 
+    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
