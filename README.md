@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Valfredo Silva
 
-**`Desenvolvedor Back-End | Python | Banco de Dados | Aplicações Web`**
+**`Desenvolvedor Full Stack`**
 
 Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, onde também concluí o curso técnico em Informática.
 
