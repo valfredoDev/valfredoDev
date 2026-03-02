@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Valfredo Silva
 
-**`Desenvolvedor Back-End | Python | Banco de Dados | Aplicações Web`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, onde também concluí o curso técnico em Informática. Possuo experiência prática em desenvolvimento de sistemas, modelagem e manipulação de banco de dados e construção de aplicações web, com foco em organização, boas práticas e evolução contínua do código. Também sou fundador da "[Wide Vision](https://www.instagram.com/widevisioon/)", produtora de conteúdo audiovisual, integrando criatividade e tecnologia na produção audiovisual e criação de conteúdo digital.
 
@@ -29,10 +29,19 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
 
 <img 
     align="left" 
+    alt="Java"
+    title="Java" 
+    width="35px" 
+    style="margin-right:8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Python"
     title="Python" 
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -40,7 +49,7 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="Django"
     title="Django" 
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
@@ -48,7 +57,7 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="Flask"
     title="Flask" 
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 
@@ -59,7 +68,7 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="MySQL" 
     title="MySQL"
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
@@ -70,7 +79,7 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="HTML"
     title="HTML" 
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -78,7 +87,7 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="CSS" 
     title="CSS"
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -86,15 +95,31 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="JavaScript" 
     title="JavaScript"
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native"
+    title="React Native" 
+    width="35px" 
+    style="margin-right:8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="35px" 
+    style="margin-right:8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
@@ -105,7 +130,7 @@ Me chamo Valfredo Silva, tenho 22 anos e sou estudante de Análise e Desenvolvim
     alt="Git" 
     title="Git"
     width="35px" 
-    style="padding:6px; background-color:#eaeaea; border-radius:8px; margin-right:8px;" 
+    style="margin-right:8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
